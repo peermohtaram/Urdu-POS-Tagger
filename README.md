@@ -17,31 +17,31 @@ It will print out the accuracy.
 
 DATA FORMATS:
 
-Training data should be in tab separated word,tag format:
-ٹریور	NN
-ٹینک	NN
-مختلف	JJ
-قسم	NN
-کی	PSP
-چڑیوں	NN
-جیسے	PRR
+Training data should be in tab separated word,tag format:<br>
+ٹریور	NN <br>
+ٹینک	NN<br>
+مختلف	JJ<br>
+قسم	NN<br>
+کی	PSP<br>
+چڑیوں	NN<br>
+جیسے	PRR<br>
 
-Validation data should be in this format:
-ابتدائی	JJ
-نقصان	NN
-کے	PSP
-بعد	NN
-معین	NNP
-علی	NNP
-اور	CC
-مورگن	NNP
-نے	PSP
+Validation data should be in this format:<br>
+ابتدائی	JJ<br>
+نقصان	NN<br>
+کے	PSP<br>
+بعد	NN<br>
+معین	NNP <br>
+علی	NNP <br>
+اور	CC <br>
+مورگن	NNP <br>
+نے	PSP <br>
 
-Test data should be in this format:
-ابتدائی
-نقصان
-کے
-بعد
-معین
-علی
-اور
+Test data should be in this format:<br>
+<br>ابتدائی
+<br>نقصان
+<br>کے
+<br>بعد
+<br>معین
+<br>علی
+<br>اور
